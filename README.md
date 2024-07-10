@@ -5,3 +5,4 @@ To play https://2048-game-weld.vercel.app/
 HOMEPAGE(2048)![image](https://github.com/swatuu0602/2048_GAME/assets/100605529/f4018ef7-546e-432f-9cc0-9938719d5eaa)
 
 
+
